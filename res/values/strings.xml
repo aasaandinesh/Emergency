@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Emergency</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_enter_user_data">EnterUserData</string>
+    <string name="name_heading">Name</string>
+    <string name="email_heading">Email</string>
+    <string name="phone_heading">phone</string>
+    <string name="enter_button">Enter</string>
+    <string name="title_activity_register">Register</string>
+    <string name="logging_in">Logging in</string>
+    <string name="registering">Registering</string>
+    <string name="title_activity_lock">LockActivity</string>
+
+</resources>
